@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Novo na Shopee - Opções de Pagamento</title>
+</head>
+<body>
+    <h1>[Novo na Shopee] Quais opções de pagamento são aceitas pela Shopee?</h1>
+    
+    <p>A Shopee oferece várias opções de pagamento para tornar suas compras mais convenientes:</p>
+
+    <h2>Cartão de Crédito</h2>
+    <p>O pagamento com cartão de crédito é uma opção para compradores. A Shopee aceita uma variedade de bandeiras de cartões de crédito, desde que os cartões tenham sido emitidos no Brasil. Você pode usar esta opção exclusivamente através do aplicativo Shopee.</p>
+
+    <h2>Pix</h2>
+    <p>O Pix é uma maneira rápida e segura de pagar suas compras na Shopee. Todas as transações Pix são criptografadas e autenticadas de acordo com as diretrizes do Banco Central.</p>
+    <p>Ao escolher o Pix como forma de pagamento, você receberá as informações necessárias, incluindo o "Pix Copia e Cola" e o QR Code, para concluir sua compra e efetuar o pagamento dentro de 24 horas. É importante lembrar que se o pedido não for pago dentro do período estipulado, ele será cancelado automaticamente.</p>
+
+    <h2>SParcelado</h2>
+    <p>O SParcelado é uma opção de pagamento que permite <strong>"Comprar Agora e Pagar Depois"</strong> na Shopee. Este serviço está sendo disponibilizado gradualmente para os usuários da plataforma. <a href="https://exemplo.com/sparcelado">Conheça mais do SParcelado.</a></p>
+
+    <h2>ShopeePay</h2>
+    <p>A ShopeePay é a carteira digital da Shopee, e você pode usá-la para pagar suas compras. Certifique-se de ter valores disponíveis em sua carteira ShopeePay no momento do pagamento. Selecione ShopeePay como método de pagamento durante o processo de compra e, se você tiver saldo suficiente, a transação será concluída com sucesso.</p>
+
+    <h2>Boleto Bancário</h2>
+    <p>O boleto bancário é uma opção de pagamento em que você pode imprimir o boleto ou usar o código de barras para pagar em casas lotéricas ou através do internet banking. É importante lembrar que o processamento do pagamento do boleto pode levar até 3 dias úteis, e o pagamento deve ser feito dentro do prazo indicado no boleto. Após o vencimento, o pedido será cancelado automaticamente.</p>
+    <p><strong>⚠️ Importante:</strong> A data de vencimento do boleto pode ser encontrada no próprio boleto ou no aplicativo. Acesse-a indo para "Eu" > "A Pagar" > selecione o pedido e verifique a data no topo da tela. Se preferir verificar no site, acesse sua conta > clique no seu nome no canto superior direito, depois em "Minhas compras" e, em seguida, no pedido desejado para visualizar a data de vencimento.</p>
+
+    <h2>Cartão de Débito Virtual da Caixa</h2>
+    <p>Se você possui um Cartão de Débito Virtual da Caixa, pode cadastrá-lo como método de pagamento. Ao selecionar o "Cartão de Débito Virtual da Caixa" em "Métodos de Pagamento", o valor será cobrado imediatamente, e, se tudo estiver correto, a compra será aprovada em instantes.</p>
+
+    <h3>Esse artigo foi útil?</h3>
+    <button>Sim</button>
+    <button>Não</button>
+
+    <h3>Artigos relacionados</h3>
+    <ul>
+        <li><a href="https://exemplo.com/pagamento-boleto">[Pagamentos de Boleto] Como gero o boleto para pagamento de um pedido?</a></li>
+        <li><a href="https://exemplo.com/conta-bancaria-shopee">[Minha Conta] Como cadastrar uma conta bancária no app ou site da Shopee?</a></li>
+        <li><a href="https://exemplo.com/verificar-telefone">[Minha conta] Como adiciono/verifico meu número de telefone?</a></li>
+    </ul>
+</body>
+</html>

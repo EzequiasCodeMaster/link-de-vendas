@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preferências de Cookies</title>
+</head>
+<body>
+    <h1>Preferências de Cookies</h1>
+
+    <p>Usamos cookies e ferramentas semelhantes (coletivamente referidos como "cookies") para os fins descritos abaixo. Para cada uma das finalidades a seguir, você pode optar por ativar os cookies selecionando a respectiva chave. Observe que, a menos que você esteja conectado, suas escolhas só serão efetivas no navegador da web e no dispositivo que você está usando no momento.</p>
+
+    <h2>Gerenciar Cookies</h2>
+
+    <div>
+        <label>
+            <input type="checkbox" id="accept-all" checked>
+            Aceitar todos os cookies
+        </label>
+    </div>
+
+    <h3>Cookies Essenciais</h3>
+    <p>Essenciais para tornar a plataforma utilizável, permitindo funções básicas, como navegação na página e acesso a áreas seguras da plataforma. A utilização destes cookies não requer o seu consentimento.</p>
+    <label>
+        <input type="checkbox" id="essential-cookies" checked disabled>
+        Aceitar
+    </label>
+
+    <h3>Cookies Analíticos</h3>
+    <p>Coleta informações técnicas sobre sua visita e interações com a plataforma para entender seu uso dos serviços e melhorar sua experiência de usuário.</p>
+    <label>
+        <input type="checkbox" id="analytics-cookies">
+        Aceitar
+    </label>
+
+    <h3>Cookies Funcionais</h3>
+    <p>Habilita determinadas funções da plataforma, coleta informações sobre suas atividades e lembra de certas preferências e configurações que você especifica na plataforma.</p>
+    <label>
+        <input type="checkbox" id="functional-cookies">
+        Aceitar
+    </label>
+
+    <h3>Cookies de Publicidade Personalizada</h3>
+    <p>Recolhe informações sobre a sua atividade no site ou atividade de navegação para apresentar conteúdos mais relevantes para você e para os seus interesses.</p>
+    <label>
+        <input type="checkbox" id="advertising-cookies">
+        Aceitar
+    </label>
+
+    <h3>Cookies Terceirizados</h3>
+    <p>Esses cookies podem ser fornecidos por provedores de análise de terceiros ou para fins de publicidade, mas são usados apenas para fins relacionados aos nossos serviços.</p>
+    <label>
+        <input type="checkbox" id="third-party-cookies">
+        Aceitar
+    </label>
+
+    <div>
+        <button onclick="savePreferences()">Salvar Preferências</button>
+        <button onclick="showMoreInfo()">Ver mais</button>
+    </div>
+
+    <script>
+        function savePreferences() {
+            alert('Preferências salvas com sucesso!');
+        }
+
+        function showMoreInfo() {
+            alert('Aqui você pode adicionar mais informações sobre os cookies utilizados.');
+        }
+    </script>
+</body>
+</html>

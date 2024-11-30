@@ -7,6 +7,10 @@
     --cor5: #f25220;
 }
 
+::-webkit-scrollbar {
+    display: none;
+}
+
 body {
     background-color: #f251208c;
     display: flex;
@@ -108,4 +112,21 @@ a:hover {
     ul img {
         font-size: 100px;
     }
+}
+
+section article {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.links {
+    width: 100vw;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    transition: transform 1s ease;
+}
+
+.links  a:hover {
+    transform: translateY(-5px);
 }
